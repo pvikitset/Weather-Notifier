@@ -1,4 +1,6 @@
 # Weather-Notifier
-Reference: 
-weather API from https://darksky.net/dev
-schedule https://github.com/dbader/schedule
+Collect weather data through DarkSky API and email it out as its schedule<br>
+
+Reference: <br>
+weather API from: https://darksky.net/dev <br>
+schedule lib: https://github.com/dbader/schedule
